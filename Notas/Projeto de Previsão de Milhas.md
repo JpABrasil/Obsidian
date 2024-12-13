@@ -1,0 +1,1 @@
+Análise de série histórica de preços 

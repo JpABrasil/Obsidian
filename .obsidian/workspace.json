@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cfcd7ca40d8f7224",
+        "id": "131931546450aee7",
         "type": "tabs",
         "children": [
           {
-            "id": "0d188437ee850c66",
+            "id": "819eb99799df94ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "6f75d4ccc5d8ec92",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Material de Pesquisa/Livros/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf",
-                "page": 184,
-                "left": 58,
-                "top": 189,
-                "zoom": 0.9
+                "file": "Notas/Options,Futures and Other Derivatives.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT)"
+              "icon": "excalidraw-icon",
+              "title": "Options,Futures and Other Derivatives"
             }
           }
         ]
@@ -105,9 +91,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Backpropagation.md",
+                "file": "Notas/Options,Futures and Other Derivatives.png",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -115,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Backpropagation"
+              "title": "Links inversos para Options,Futures and Other Derivatives"
             }
           },
           {
@@ -124,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Backpropagation.md",
+                "file": "Notas/Options,Futures and Other Derivatives.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Backpropagation"
+              "title": "Links de saída para Options,Futures and Other Derivatives"
             }
           },
           {
@@ -150,9 +136,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Notas/Options,Futures and Other Derivatives.md"
+              },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Options,Futures and Other Derivatives"
             }
           },
           {
@@ -188,57 +176,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "51d13f4071aa5725",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f7d793e15c7c72a0",
-        "type": "window",
-        "children": [
-          {
-            "id": "a261d0d8fdacba50",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "861eb7ec88d34b03",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Notas/Options,Futures and Other Derivatives.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Options,Futures and Other Derivatives"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 640,
-        "y": 0,
-        "width": 640,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0d188437ee850c66",
+  "active": "819eb99799df94ab",
   "lastOpenFiles": [
-    "Material de Pesquisa/Livros/Options,Futures and Other Derivatives - Jonh C. Hull.pdf",
-    "Notas/Options,Futures and Other Derivatives.md",
-    "Notas/teste.md",
-    "Notas/DeepLearningIan.excalidraw.md",
-    "Material de Pesquisa/Livros/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf",
-    "Material de Pesquisa/Livros/Sergios Theodoridis, Konstantinos Koutroumbas - Pattern Recognition, Fourth Edition-Academic Press (2008).pdf",
     "Notas/Options,Futures and Other Derivatives.png",
+    "Notas/Options,Futures and Other Derivatives.md",
+    "Material de Pesquisa/Livros/Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer - Mathematical statistics with applications    -Thomson Brooks_Cole (2008).pdf",
+    "Pasted Image 20241217114058_906.png",
+    "Captura de tela 2024-12-16 113404.png",
+    "Material de Pesquisa/Livros/Options,Futures and Other Derivatives - Jonh C. Hull.pdf",
+    "Notas/DeepLearningIan.excalidraw.md",
+    "Notas/Sem título.md",
+    "Excalidraw/Options,Futures and Other Derivatives.md",
+    "Material de Pesquisa/Livros/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf",
+    "Notas/teste.md",
+    "Material de Pesquisa/Livros/Sergios Theodoridis, Konstantinos Koutroumbas - Pattern Recognition, Fourth Edition-Academic Press (2008).pdf",
     "Notas/Projeto de Previsão de Milhas.md",
     "Excalidraw/Options,Futures and Other Derivatives.png",
     "Notas/Backpropagation.md",
     "Notas/Sem título 1.md",
-    "Excalidraw/Options,Futures and Other Derivatives.md",
     "Indices/Finanças.md",
     "Indices/Economia.md",
     "Indices/Datathon FGV 2024.md",
@@ -252,7 +207,6 @@
     "Excalidraw/Bibliotecas",
     "Excalidraw/Nova pasta",
     "Excalidraw",
-    "Material de Pesquisa/Artigos Cientificos/Evaluation of Reinforcement Learning in Quantitative Finance.pdf",
     "Notas/Reinforcement Learning and Sequential Decision Making.md",
     "Notas/Por quê Derivadas Parciais fazem o Perceptron Aprender.md",
     "Indices/Matemática.md",
@@ -263,7 +217,6 @@
     "Indices/Medium.md",
     "Indices/Computação.md",
     "Indices/Cálculo.md",
-    "Indices/Aprendizado de Máquina.md",
     "Sem título.canvas"
   ]
 }

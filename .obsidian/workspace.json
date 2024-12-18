@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "21cac5997264fd39",
@@ -176,24 +177,74 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "c9200c93419aa156",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aee16fa5d693e89e",
+        "type": "window",
+        "children": [
+          {
+            "id": "05bffb6f92d9ff4f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f68f9222e011153",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Material de Pesquisa/Livros/Options,Futures and Other Derivatives - Jonh C. Hull.pdf",
+                    "page": 128,
+                    "left": 29,
+                    "top": 475,
+                    "zoom": 1.17
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Options,Futures and Other Derivatives - Jonh C. Hull"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "819eb99799df94ab",
   "lastOpenFiles": [
-    "Notas/Options,Futures and Other Derivatives.png",
+    "Material de Pesquisa/Livros/Options,Futures and Other Derivatives - Jonh C. Hull.pdf",
     "Notas/Options,Futures and Other Derivatives.md",
+    "Notas/Options,Futures and Other Derivatives.png",
+    "Material de Pesquisa/Livros/(Wiley Finance Series)  - Risk Management and Financial Institutions-John Wiley & Sons, Inc. (2023).pdf",
+    "Excalidraw/Options,Futures and Other Derivatives.md",
+    "Excalidraw/Options,Futures and Other Derivatives.png",
+    "Notas/Por quê Derivadas Parciais fazem o Perceptron Aprender.md",
+    "Pasted Image 20241218095303_455.png",
+    "Notas/Options,Futures and Other Derivatives.svg",
+    "Pasted Image 20241218090458_925.png",
+    "Pasted Image 20241217234707_210.png",
+    "Pasted Image 20241217233938_960.png",
+    "Pasted Image 20241217232133_572.png",
+    "Pasted Image 20241217231201_747.png",
+    "Notas/Sem título.md",
+    "Notas/Sem título 2.md",
+    "Notas/Sem título 1.md",
     "Material de Pesquisa/Livros/Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer - Mathematical statistics with applications    -Thomson Brooks_Cole (2008).pdf",
     "Pasted Image 20241217114058_906.png",
-    "Captura de tela 2024-12-16 113404.png",
-    "Material de Pesquisa/Livros/Options,Futures and Other Derivatives - Jonh C. Hull.pdf",
     "Notas/DeepLearningIan.excalidraw.md",
-    "Notas/Sem título.md",
-    "Excalidraw/Options,Futures and Other Derivatives.md",
     "Material de Pesquisa/Livros/Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf",
     "Notas/teste.md",
     "Material de Pesquisa/Livros/Sergios Theodoridis, Konstantinos Koutroumbas - Pattern Recognition, Fourth Edition-Academic Press (2008).pdf",
     "Notas/Projeto de Previsão de Milhas.md",
-    "Excalidraw/Options,Futures and Other Derivatives.png",
     "Notas/Backpropagation.md",
-    "Notas/Sem título 1.md",
     "Indices/Finanças.md",
     "Indices/Economia.md",
     "Indices/Datathon FGV 2024.md",
@@ -206,9 +257,7 @@
     "Excalidraw/Bibliotecas/3d-coordinate-systems-graphs.excalidrawlib",
     "Excalidraw/Bibliotecas",
     "Excalidraw/Nova pasta",
-    "Excalidraw",
     "Notas/Reinforcement Learning and Sequential Decision Making.md",
-    "Notas/Por quê Derivadas Parciais fazem o Perceptron Aprender.md",
     "Indices/Matemática.md",
     "Notas/Ângulo entre Dois Vetores, Lei dos Cossenos e Produto Escalar.md",
     "Indices/Criptografia.md",
@@ -216,7 +265,6 @@
     "Indices/Redes Neurais.md",
     "Indices/Medium.md",
     "Indices/Computação.md",
-    "Indices/Cálculo.md",
     "Sem título.canvas"
   ]
 }
